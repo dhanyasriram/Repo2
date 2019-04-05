@@ -1,10 +1,1 @@
- Volume in drive C is Windows
- Volume Serial Number is 20E5-75C7
-
- Directory of C:\Users\7096\Desktop\my_project
-
-05-04-2019  11:21    <DIR>          .
-05-04-2019  11:21    <DIR>          ..
-05-04-2019  11:21                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  157.953.097.728 bytes free
+ change 1
